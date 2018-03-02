@@ -4,7 +4,7 @@ from django.core.urlresolvers import reverse
 from django.conf import settings
 import misaka
 
-from grop.models import Group
+from group.models import Group
 # Create your models here.
 
 from django.contrib.auth import get_user_model
